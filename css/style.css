@@ -1,0 +1,15 @@
+.modal-header {
+  background-color: #512DA8;
+  color: white; }
+
+.modal-body {
+  background-color: #D1C4E9; }
+
+.close {
+  color: white; }
+
+.close:hover {
+  color: white; }
+
+.close:focus {
+  outline: 0; }

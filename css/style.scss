@@ -1,10 +1,20 @@
 $background-dark: #512DA8;
-$background-light: #9575CD;
+$button-color: white;
 $background-pale: #D1C4E9;
 
 .modal-header{
     background-color: $background-dark;
+    color: $button-color;
 }
 .modal-body{
     background-color: $background-pale;
+}
+.close{
+    color: $button-color;
+}
+.close:hover{
+    color: $button-color;
+}
+.close:focus{
+    outline: 0;
 }
